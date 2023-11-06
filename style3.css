@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* footer */
+
+.get-started-btn {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 181px;
+    height: 56px;
+    flex-shrink: 0;
+    position: absolute;
+    left: auto;
+    top: auto;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    right: 32px;
+}

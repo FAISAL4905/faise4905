@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* footer */
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -12px;
+}
+.details h2 {
+    background: transparent;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+.input-box {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 355px;
+    height: 72px;
+    flex-shrink: 0;
+    padding-left: 37px;
+    font-size: 17px;
+}
+.email-box {
+    position: relative;
+    display: inline-block;
+    width: 77%;
+}
+.email-box input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    height: 72px;
+    padding-left: 9px;
+    font-size: 14px;
+}
+.email-box button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 15px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 134px;
+    height: 56px;
+    margin-top: 8px;
+    margin-right: 11px;
+}
+.divider-line {
+    width: 92%;
+    height: 1px;
+    background: #EAEEF3;
+    /* margin-top: -332px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    height: 1560px;
+}
+
+.company-services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-intro {
+    padding-right: 68px;
+}
+
+.products-info a {
+    padding-top: 14px;
+}
+
+.products-info {
+    padding-right: 68px;
+}
+
+.company-info a {
+    padding-top: 20px;
+}
+
+.company-info {
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 198px;
+}
+
+.team-info {
+    padding-top: 40px;
+    padding-right: 68px;
+}

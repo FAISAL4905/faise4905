@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* footer */
+
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -12px;
+}
+
+.details h2 {
+    font-size: 24px;
+}
+
+.email-box {
+    position: relative;
+    display: inline-block;
+    width: 93%;
+}
+.email-box button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 15px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 111px;
+    height: 56px;
+    margin-top: 8px;
+    margin-right: 11px;
+}
+
+
+.footer {
+    height: 1600px;
+}
+
+.company-services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.company-intro {
+    padding-left: 37px;
+}
+
+.team-info {
+    padding-right: 50px;
+}
+
+.team-info a {
+    padding-top: 18px;
+}
+
+.products-info {
+    padding-right: 50px;
+}
+
+.company-info {
+    padding-right: 168px;
+    padding-top: 29px;
+}
+
+.home-info h2 {
+    /* padding-left: 18px; */
+    font-size: 45px;
+    padding-top: 36px;
+}

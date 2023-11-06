@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* footer */
+.footer {
+    height: 1000px;
+}
+
+.footer-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -150px;
+}
+
+.input-box {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 471px;
+    height: 72px;
+    flex-shrink: 0;
+    padding-left: 37px;
+    font-size: 17px;
+}
+
+.email-box {
+    position: relative;
+    display: inline-block;
+    width: 65%;
+}
+.divider-line {
+    width: 70%;
+    height: 1px;
+    background: #EAEEF3;
+    /* margin-top: 111px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-info h2 {
+    padding-left: 45px;
+    font-size: 48px;
+}
+
+.home-info p {
+    padding-left: 45px;
+    font-size: 17px;
+}

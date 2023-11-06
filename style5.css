@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* footer */
+
+.footer {
+    height: 1300px;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-started-btn {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 181px;
+    height: 56px;
+    flex-shrink: 0;
+    position: absolute;
+    left: auto;
+    top: auto;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    right: 46px;
+}
+
+.company-services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-intro {
+    padding-right: 150px;
+}
+
+.products-info a {
+    padding-top: 14px;
+}
+
+.products-info {
+    padding-right: 210px;
+}
+
+.company-info a {
+    padding-top: 14px;
+}
+
+.company-info {
+    margin-top: -517px;
+    margin-left: 187px;
+}
+
+.team-info {
+    padding-top: 40px;
+    padding-right: 210px;
+}
